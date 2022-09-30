@@ -1,0 +1,2 @@
+# DAY 1 | Introduction to Data Analytics with Python and SQL 
+Pada hari pertama, saya belajar dasar - dasar Jupyter Notebook dan dasar - dasar Python. Hari ini saya telah berhasil membuat markdown, membuat judul progres serta insert logo Python di Jupyter Notebook dan berhasil memunculkan frasa/kalimat dengan menggunakan Python. 
