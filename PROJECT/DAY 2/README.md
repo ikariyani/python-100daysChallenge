@@ -1,0 +1,2 @@
+# DAY 2 | BASIC SQL - Data Definition Language
+Pada hari kedua saya belajar SQL Dasar dengan  DDL statement (Data Definition Language) dan telah berhasil menerapkan fungsi CREATE, DROP, ALTER dan TRUNCATE. 
