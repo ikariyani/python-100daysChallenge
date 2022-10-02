@@ -1,0 +1,2 @@
+# DAY 2 | BASIC SQL - Data Definition Language
+Pada hari ketiga saya belajar SQL Dasar dengan  DML statement (Data Manipulation Language) dan telah berhasil menerapkan fungsi SELECT, INSERT, UPDATE dan DELETE. 
