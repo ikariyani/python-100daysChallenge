@@ -1,0 +1,2 @@
+# DAY 4 | BASIC SQL - Data Query Language : Join Table
+Hari ini saya belajar SQL Dasar dengan DQL statement (Data Query Language) dan telah berhasil menerapkan fungsi Join Table (INNER JOIN, LEFT JOIN, RIGHT JOIN and FULL JOIN). 
