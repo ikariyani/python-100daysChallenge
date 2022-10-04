@@ -1,0 +1,2 @@
+# DAY 5 | BASIC PYTHON : Variable & Data Type | Numeric, Text, Boolean
+Hari ini saya belajar Basic Python dengan membuat variabel dan menampilkan beberapa jenis data. Dalam menampilkan beberapa jenis data, saya juga menggunakan fungsi dasar dalam menampilkan data tersebut secara parsial/tidak utuh menggabungkan beberapa data dan melakukan sistem operasi matematika dasar.  
