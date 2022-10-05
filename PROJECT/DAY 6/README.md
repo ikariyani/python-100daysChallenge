@@ -1,0 +1,2 @@
+# DAY 6 | DAY 6 | BASIC PYTHON - Variable & Data Type (List, Tuple, Set, Dictionary)
+Hari ini saya belajar Basic Python dengan rumus dasar menampilkan beberapa jenis data melalui Jupyter Notebook. Dalam menampilkan beberapa jenis data tersebut, saya juga menggunakan fungsi dasar dalam menampilkan data tersebut secara parsial/tidak utuh, menggabungkan beberapa data serta melakukan rumus/fungsi lainnya sesuai dengan jenis data yang akan ditampilkan.
