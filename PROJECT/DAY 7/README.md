@@ -1,0 +1,2 @@
+# Day 7 | BASIC PYTHON: Function & Class
+Hari ini saya belajar basic Python yaitu Function & Class melalui jupyter notebook. Dalam progres belajar hari ini saya dapat menjalankan beberapa metode untuk menampilkan data melalui Function dan Class.
