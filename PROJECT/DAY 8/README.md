@@ -1,0 +1,2 @@
+# Day 8 | BASIC PYTHON - Logic Statements (If, Elif, Else)
+Hari ini saya belajar basic Python dengan menggunakan Logic Statements If, Elif dan Else serta menampilkan data menggunakan beberapa metode dengan Logika ini.
