@@ -1,0 +1,2 @@
+# Day 9 | BASIC PYTHON = Looping Statements (While, For)
+Hari ini saya belajar basic Python dengan menggunakan Looping Statements While dan For, serta menampilkan data menggunakan beberapa metode Looping ini.
