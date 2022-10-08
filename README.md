@@ -9,3 +9,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [DAY 6 : BASIC PYTHON - Variable & Data Type (List, Tuple, Set, Dictionary)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%206/BASIC%20PYTHON%20-%20Variable%20%26%20Data%20Type%20(List%2C%20Tuple%2C%20Set%2C%20Dictionary).ipynb)
 * [Day 7 : BASIC PYTHON - Function & Class](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%207/BASIC%20PYTHON%20-%20Function%20%26%20Class.ipynb)
 * [Day 8 : BASIC PYTHON - Logic Statements (If, Elif, Else)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%208/BASIC%20PYTHON%20-%20Logic%20Statements%20%20(If%2C%20Elif%2C%20Else).ipynb)
+* [Day 9 : BASIC PYTHON: Looping Statements (While, For)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%209/BASIC%20PYTHON%20-%20Looping%20Statements%20(For%2C%20While).ipynb)
