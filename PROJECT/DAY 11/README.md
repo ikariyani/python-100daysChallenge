@@ -1,0 +1,2 @@
+# Day 11 | BASIC PYTHON - File Handling (Read, Write and Delete)
+Hari ini saya belajar basic Python dengan menggunakan File Handling staments Read, Write and Delete melalui Jupyter Notebook. Pada progres belajar hari ini penggunaan File Handling Read, Write and Delete dapat digunakan untuk membuat file, membaca file, menambah data pada file yang telah dibuat serta menghapus file.
