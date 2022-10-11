@@ -12,3 +12,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 9 : BASIC PYTHON: Looping Statements (While, For)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%209/BASIC%20PYTHON%20-%20Looping%20Statements%20(For%2C%20While).ipynb)
 * [Day 10 : BASIC PYTHON - Testing Statements and Error Handling (Try, Except)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2010/BASIC%20PYTHON%20-%20Testing%20Statements%20(Try%2C%20Except).ipynb)
 * [Day 11 : BASIC PYTHON - File Handling (Read, Write and Delete)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2011/BASIC%20PYTHON%20-%20File%20Handling%20(Open%2C%20Read%2C%20Write%20and%20Delete)%20.ipynb)
+* [Day 12 : BASIC PYTHON -  Modules and Package](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2012/BASIC%20PYTHON%20-%20Modules.ipynb)
