@@ -1,0 +1,2 @@
+# Day 12 | BASIC PYTHON -  Modules and Package
+Hari ini saya belajar basic Python mengenai Modules and Package dalam python di Jupyter Notebook. Dalam Python modules dan package dapat dibuat secara custom. Selain itu, terdapat beberapa modules dan package utama pada Python, seperti NumPy, Pandas, Scipy, Matplotlib, Seaborn, Sklearn, Keras, dll.
