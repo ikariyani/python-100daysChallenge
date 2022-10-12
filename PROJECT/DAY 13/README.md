@@ -1,0 +1,4 @@
+# Day 13 | NUMPY - Introduction to NumPy
+Setelah belajar basic Python, selanjutnya saya belajar mengenai beberapa Library di Python, salah satunya adalah NumPy.<br>
+NumPy merupakan singkatan dari Numerical Python. NumPy merupakan salah satu library Python yang berfungsi untuk proses komputasi numerik. NumPy memiliki kemampuan untuk membuat objek N-dimensi array. Array merupakan sekumpulan variabel yang memiliki tipe data yang sama.<br>
+Pada hari ini saya belajar mengenai pengenalan NumPy melalui Jupyter Notebook, mulai dari install NumPy, import NumPy, hingga melakukan fungsi sederhana pada NumPy.
