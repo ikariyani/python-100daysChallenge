@@ -1,0 +1,2 @@
+# Day 14 | NUMPY - Basic NumPy
+Pada hari ini saya memulai belajar salah satu library utama pada Python yaitu NumPy untuk proses komputasi numerik. Progres belajar NumPy hari ini yaitu Import NumPy, beberapa macam dimensi Array dan Indexing pada NumPy.
