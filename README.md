@@ -15,3 +15,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 12 : BASIC PYTHON -  Modules and Package](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2012/BASIC%20PYTHON%20-%20Modules.ipynb)
 * [Day 13 : NUMPY - Introduction to NumPy](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2013/NUMPY%20-%20Introduction%20to%20NumPy.ipynb)
 * [Day 14 : NUMPY - Basic NumPy](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2014/NUMPY%20-%20Basic%20NumPy.ipynb)
+* [Day 15 : NUMPY - Data Manipulation](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2015/NUMPY%20-%20Data%20Manipulation.ipynb)
