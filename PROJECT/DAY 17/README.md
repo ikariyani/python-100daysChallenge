@@ -1,0 +1,2 @@
+# Day 17 | NUMPY - Mathematics (Basic Arithmetic)
+Pada hari ini saya belajar tentang Basic Arithmetic pada library NumPy, diantaranya yaitu Arithmetic Operations, Trigonometric Functions, Eksponents and Logarithm.
