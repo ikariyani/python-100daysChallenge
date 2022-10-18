@@ -19,3 +19,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 16 : NUMPY - Data Initialization](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2016/NUMPY%20-%20Data%20Initialization.ipynb)
 * [Day 17 : NUMPY - Mathematics (Basic Arithmetic)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2017/NUMPY%20-%20%20Mathematics%20%20%20(Basic%20Arithmetic).ipynb)
 * [Day 18 : NUMPY - Mathematics (Linear Algebra)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2018/NUMPY%20-%20Mathematics%20(Linear%20Algebra).ipynb)
+* [DAY 19 : NUMPY - Mathematics (Statistics)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2019/NUMPY%20-%20Mathematics%20(Statistics).ipynb)
