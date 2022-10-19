@@ -20,3 +20,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 17 : NUMPY - Mathematics (Basic Arithmetic)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2017/NUMPY%20-%20%20Mathematics%20%20%20(Basic%20Arithmetic).ipynb)
 * [Day 18 : NUMPY - Mathematics (Linear Algebra)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2018/NUMPY%20-%20Mathematics%20(Linear%20Algebra).ipynb)
 * [DAY 19 : NUMPY - Mathematics (Statistics)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2019/NUMPY%20-%20Mathematics%20(Statistics).ipynb)
+* [Day 20 : NUMPY - Array Reorganization (Transpose, Concatenate, Split)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2020/NUMPY%20-%20Array%20Reorganization%20(Transpose%2C%20Concatenate%2C%20Split).ipynb)
