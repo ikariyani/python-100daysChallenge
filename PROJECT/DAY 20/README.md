@@ -1,0 +1,2 @@
+# Day 20 | NUMPY - Array Reorganization (Transpose, Concatenate, Split)
+Pada hari ini saya belajar tentang Array Reorganization pada library NumPy diantaranya yaitu Transpose, Concatenate dan Split untuk 1-D array, 2-D array dan 3-D array.
