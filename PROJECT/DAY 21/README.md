@@ -1,0 +1,2 @@
+# Day 21 | NUMPY - Array Reorganization (Reshape, Vertical Stack, Horizontal Stack)
+Pada hari ini saya belajar tentang Array Reorganization pada library NumPy diantaranya yaitu Reshape, Vertical Stack dan Horizontal Stack untuk 1-D array, 2-D array dan 3-D array.
