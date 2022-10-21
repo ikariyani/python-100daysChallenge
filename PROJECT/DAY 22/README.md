@@ -1,0 +1,3 @@
+# Day 22 | PANDAS - Introduction to Pandas
+Setelah selesai mempelajari basic Python dan NumPy, maka pada progres belajar selanjutnya adalah mempelajari library lain pada Python yaitu Pandas. Pandas biasa digunakan untuk membuat tabel, mengubah dimensi data, mengecek data, dan lain sebagainya. Pandas library sering digunakan karena kemampuannya untuk mengelola data berbentuk tabel (lebih lanjut disebut dengan dataframe) dimana sebagian besar data science project menggunakan data berbasis tabel. <br>
+Pada hari ini saya belajar mengenai pengenalan Pandas melalui Jupyter Notebook, mulai dari install Pandas, import Pandas, hingga melakukan fungsi sederhana pada Pandas.
