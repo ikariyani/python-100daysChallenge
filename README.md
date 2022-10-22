@@ -23,3 +23,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 20 : NUMPY - Array Reorganization (Transpose, Concatenate, Split)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2020/NUMPY%20-%20Array%20Reorganization%20(Transpose%2C%20Concatenate%2C%20Split).ipynb)
 * [DAY 21 : NUMPY - Array Reorganization (Reshape, Vertical Stack, Horizontal Stack)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2021/NUMPY%20-%20Array%20Reorganization%20(Reshape%2C%20Vertical%20Stack%2C%20Horizontal%20Stack).ipynb)
 * [Day 22 : PANDAS - Introduction to Pandas](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2022/PANDAS%20-%20Introduction%20to%20Pandas.ipynb)
+* [Day 23 : PANDAS - Import Data (CSV, Excel, JSON)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2023/PANDAS%20-%20Import%20Data%20(CSV%2C%20Excel%2C%20JSON).ipynb)
