@@ -1,0 +1,2 @@
+# Day 23 | PANDAS - Import Data (CSV, Excel, JSON)
+Pada hari ini saya belajar Import Data pada Pandas, yaitu import data CSV, Excel dan JSON serta convert dari file CSV ke file Excel dan file JSON hingga bisa ditampilkan dan terbaca dengan baik.
