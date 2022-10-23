@@ -1,0 +1,2 @@
+# Day 24 | PANDAS - Data Frame (Data Slicing)
+Pada hari ini saya belajar Data Slicing pada Pandas menggunakan beberapa metode, yaitu Standard Slicing, loc dan iloc untuk mengakses data tertentu dalam satu data frame.
