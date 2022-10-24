@@ -25,3 +25,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 22 : PANDAS - Introduction to Pandas](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2022/PANDAS%20-%20Introduction%20to%20Pandas.ipynb)
 * [Day 23 : PANDAS - Import Data (CSV, Excel, JSON)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2023/PANDAS%20-%20Import%20Data%20(CSV%2C%20Excel%2C%20JSON).ipynb)
 * [Day 24 : PANDAS - Data Frame (Data Slicing)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2024/PANDAS%20-Data%20Frame%20(Data%20Slicing).ipynb)
+* [Day 25 : PANDAS - Data Frame (Data Sorting)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2025/PANDAS%20-%20Data%20Frame%20(Data%20Sorting).ipynb)
