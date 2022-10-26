@@ -1,0 +1,2 @@
+# Day 27 | PANDAS - Data Frame (Data Filtering)
+Pada hari ini saya belajar Data Filtering pada Pandas untuk menampilkan data sesuai dengan kondisi yang diinginkan menggunakan metode Boolean Mask, Loc, Iloc dan Query.
