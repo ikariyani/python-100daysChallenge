@@ -1,0 +1,2 @@
+# Day 29 | PANDAS - Statistic Aggregate
+Pada hari ini saya belajar tentang Statistic Agregate pada Pandas menggunakan Fungsi Agregasi dan GroupBy untuk melakukan analisis - analisis statistik deskriptif pada data "Historical Hurricane Tracks".
