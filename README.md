@@ -31,3 +31,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 28 : PANDAS - Data Frame (Data Categorization)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2028/PANDAS%20-%20Data%20Frame%20(Data%20Categorization).ipynb)
 * [Day 29 : PANDAS - Statistic Aggregate](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2029/PANDAS%20-%20Statistic%20Aggregate.ipynb)
 * [Day 30 : MATPLOTLIB - Introduction to Matplotlib](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2030/MATPLOTLIB%20-%20Introduction%20to%20Matplotlib.ipynb)
+* [Day 31 : MATPLOTLIB - Line Chart (Basic)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2031/MATPLOTLIB%20-%20Line%20Chart%20(Basic).ipynb)
