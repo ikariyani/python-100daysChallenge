@@ -1,0 +1,2 @@
+# Day 31 | MATPLOTLIB - Line Chart (Basic)
+Pada hari ini saya belajar fungsi - fungsi dasar pada Matplotlib untuk melakukan visualisasi data Human Development Index Negara Indonesia dari tahun 1990 hingga tahun 2019 menggunakan Line Chart.
