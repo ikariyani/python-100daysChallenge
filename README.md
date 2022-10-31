@@ -32,3 +32,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 29 : PANDAS - Statistic Aggregate](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2029/PANDAS%20-%20Statistic%20Aggregate.ipynb)
 * [Day 30 : MATPLOTLIB - Introduction to Matplotlib](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2030/MATPLOTLIB%20-%20Introduction%20to%20Matplotlib.ipynb)
 * [Day 31 : MATPLOTLIB - Line Chart (Basic)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2031/MATPLOTLIB%20-%20Line%20Chart%20(Basic).ipynb)
+* [Day 32 : MATPLOTLIB - Line Chart (Styling Font and Line)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2032/MATPLOTLIB%20-%20Line%20Chart%20(Styling%20Font%20and%20Line).ipynb)
