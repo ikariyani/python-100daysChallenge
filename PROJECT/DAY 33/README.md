@@ -1,0 +1,2 @@
+# Day 33 | MATPLOTLIB - Line Chart (Multiple Lines)
+Pada hari ini saya belajar melakukan visualisasi menggunakan Matplotlib untuk menampilkan data Indeks Pembangunan Manusia negara - negara anggota ASEAN tahun 1990 - 2019. Berdasarkan visualisasi tersebut, kita dapat melihat perbedaan perkembangan Indeks Pembangunan Manusia pada masing - masing negara.
