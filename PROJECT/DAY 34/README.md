@@ -1,0 +1,2 @@
+# Day 34 | MATPLOTLIB - Bar Chart
+Pada hari ini saya belajar melakukan visualisasi menggunakan Matplotlib untuk menampilan data Indeks Pembangunan Manusia Negara Indonesia Tahun 1990 - 2019 dan Indeks Pembangunan Manusia negara - negara anggota ASEAN. Berdasarkan pada 2 diagram garis tersebut, kita dapat melihat perkembangan IPM Negara Indonesia dari tahun ke tahun serta melihat perbandingan perkembangan IPM pada negara - negara anggota ASEAN pada tahun 2019.
