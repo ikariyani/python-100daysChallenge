@@ -1,0 +1,2 @@
+# Day 35 | MATPLOTLIB - Pie Chart
+Pada hari ini saya belajar melakukan visualisasi menggunakan Matplotlib untuk menampilkan data GDP setiap region di seluruh dunia dan GDP Region Asia Timur dan Pasifik.
