@@ -36,3 +36,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 33 : MATPLOTLIB - Line Chart (Multiple Lines)](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2033/MATPLOTLIB%20-%20Line%20Chart%20(Multiple%20Lines).ipynb)
 * [Day 34 : MATPLOTLIB - Bar Chart](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2034/MATPLOTLIB%20-%20Bar%20Chart.ipynb)
 * [Day 35 : MATPLOTLIB - Pie Chart](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2035/MATPLOTLIB%20-%20Pie%20Chart.ipynb)
+* [Day 36 : MATPLOTLIB - SCATTER PLOT](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2036/MATPLOTLIB%20-%20SCATTER%20PLOT.ipynb)
