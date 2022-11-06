@@ -38,3 +38,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 35 : MATPLOTLIB - Pie Chart](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2035/MATPLOTLIB%20-%20Pie%20Chart.ipynb)
 * [Day 36 : MATPLOTLIB - SCATTER PLOT](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2036/MATPLOTLIB%20-%20SCATTER%20PLOT.ipynb)
 * [Day 37 : MATPLOTLIB - Stem Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2037/MATPLOTLIB%20-%20Stem%20Plot.ipynb)
+* [Day 38 : MATPLOTLIB - Histogram](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2038/MATPLOTLIB%20-%20Histogram.ipynb)
