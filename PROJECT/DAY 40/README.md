@@ -1,0 +1,2 @@
+# Day 40 | Scatter Plot with Histogram
+Pada hari ini saya melakukan visualisasi menggunakan kombinasi diagram yaitu Scatter Plot dan Histogram untuk menampilkan data perbandingan IPM dengan Angka Harapan Hidup negara di seluruh dunia Tahun 2016 - 2018.
