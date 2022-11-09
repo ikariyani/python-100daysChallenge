@@ -1,0 +1,2 @@
+# Day 41 | MATPLOTLIB - Stackplots
+Pada hari ini saya melakukan visualisasi menggunakan Stackplots pada Matplotlib untuk menampilkan data perkembangan upah kerja setiap provinsi di Sumatera dari tahun 1998 - 2022.
