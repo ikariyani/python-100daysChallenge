@@ -1,0 +1,2 @@
+# Day 42 | MATPLOTLIB - Horizontal Bar Chart
+Pada hari ini saya melakukan visualisasi menggunakan Horizontal Bar Chart pada Matplotlib untuk menampilkan data kematian akibat kekurangan gizi di Indonesia. pada tahun 2010 - 2019.
