@@ -43,3 +43,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 40 : MATPLOTLIB - Scatter Plot with Histogram](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2040/MATPLOTLIB%20-%20Scatter%20Plot%20with%20Histogram.ipynb)
 * [Day 41 : MATPLOTLIB - Stackplots](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2040/MATPLOTLIB%20-%20Scatter%20Plot%20with%20Histogram.ipynb)
 * [Day 42 : MATPLOTLIB - Horizontal Bar Chart](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2042/MATPLOTLIB%20-%20Horizontal%20Bar%20Chart.ipynb)
+* [Day 43 : MATPLOTLIB - Timeline](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2043/MATPLOTLIB%20-%20Timeline.ipynb)
