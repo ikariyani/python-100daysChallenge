@@ -1,0 +1,2 @@
+# Day 44 | MATPLOTLIB - Bar and Line Chart
+Pada hari ini saya melakukan visualisasi dengan Bar and Line Chart pada Matplotlib untuk menampilkan data curah hujan serta temperatur minimum dan maksimum DKI Jakarta.
