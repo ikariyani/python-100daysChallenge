@@ -45,3 +45,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 42 : MATPLOTLIB - Horizontal Bar Chart](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2042/MATPLOTLIB%20-%20Horizontal%20Bar%20Chart.ipynb)
 * [Day 43 : MATPLOTLIB - Timeline](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2043/MATPLOTLIB%20-%20Timeline.ipynb)
 * [Day 44 : MATPLOTLIB - Bar and Line Chart](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2044/MATPLOTLIB%20-%20Bar%20and%20Line%20Chart.ipynb)
+* [Day 45 : MATPLOTLIB - Bayesian Statistics](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2045/MATPLOTLIB%20-%20Bayesian%20Statistics.ipynb)
