@@ -1,0 +1,2 @@
+# Day 46 | SEABORN - Joint Plot
+Pada hari ini saya melakukan visualisasi menggunakan Joint Plot pada Seaborn untuk menampilkan data Persebaran Indeks Kedalaman Kemiskinan dan Indeks Keparahan Kemiskinan.
