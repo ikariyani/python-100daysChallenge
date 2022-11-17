@@ -1,0 +1,2 @@
+# Day 49 | SEABORN - Box Plot
+Pada hari ini saya melakukan visualisasi menggunakan Box Plot pada Seaborn untuk menampilkan data Statistik Tingkat Konsumsi dan Penghasilan Masyarakat Perkotaan di Indonesia.
