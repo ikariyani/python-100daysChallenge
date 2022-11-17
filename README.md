@@ -49,3 +49,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 46 : SEABORN - Joint Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2046/SEABORN%20-%20Joint%20Plot.ipynb)
 * [Day 47 : SEABORN - Line Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2047/SEABORN%20-%20Line%20Plot.ipynb)
 * [Day 48 : SEABORN - Joint Grid](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2048/SEABORN%20-%20Joint%20Grid.ipynb)
+* [Day 49 : SEABORN - Box Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2049/SEABORN%20-%20BOXPLOT.ipynb)
