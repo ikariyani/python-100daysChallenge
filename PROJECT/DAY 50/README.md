@@ -1,0 +1,2 @@
+# Day 50 | SEABORN - Joint Plot
+Pada hari ini saya melakukan visualisasi menggunakan Joint Plot pada Seaborn untuk menampilkan data Kontribusi Kesehatan dan Kepercayaan terhadap Pemerintah dalam Indeks Kebahagiaan.
