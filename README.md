@@ -52,3 +52,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 49 : SEABORN - Box Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2049/SEABORN%20-%20BOXPLOT.ipynb)
 * [Day 50 : SEABORN - Joint Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2050/SEABORN%20-%20Joint%20Plot.ipynb)
 * [Day 51 : SEABORN - Boxen Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2051/SEABORN%20-%20Boxen%20Plot.ipynb)
+* [Day 52 : SEABORN - Violin Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2052/SEABORN%20-%20Violin%20Plot.ipynb)
