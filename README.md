@@ -55,3 +55,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 52 : SEABORN - Violin Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2052/SEABORN%20-%20Violin%20Plot.ipynb)
 * [Day 53 : SEABORN - Dis Plot](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2053/SEABORN%20-%20Dis%20Plot.ipynb)
 * [Day 54 : BIGQUERY - Introduction Data Analytics with Google Cloud](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2054/DAY%2054.md)
+* [Day 55 : BIGQUERY - OLTP and OLAP](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2055/DAY%2055.md)
