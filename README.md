@@ -57,4 +57,5 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 54 : BIGQUERY - Introduction Data Analytics with Google Cloud](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2054/DAY%2054.md)
 * [Day 55 : BIGQUERY - OLTP and OLAP](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2055/DAY%2055.md)
 * [Day 56 : BIGQUERY - Import Data from CSV](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2056/DAY%2056.md)
-* [Day 57 : BIGQUERY : Billing System of BigQuery](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2057/DAY%2057.md)
+* [Day 57 : BIGQUERY - Billing System of BigQuery](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2057/DAY%2057.md)
+* [Day 58 : BIGQUERY - Nested Data with JSON ](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2058/DAY%2058.md)
