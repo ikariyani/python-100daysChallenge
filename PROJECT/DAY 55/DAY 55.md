@@ -1,6 +1,6 @@
 <img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
 
-Skema OLTP dan OLAP<br>
+# Skema OLTP dan OLAP<br>
 Data Warehouse merupakan database yang berisi data dari beberapa sistem operasionl yang terintegrasi dan terstruktur sehingga dapat digunakan untuk mendukung analisa dan proses pengambilan keputusan. Data warewhouse sangat mengacu pada suatu organisasi ataupun perusahaan besar atau lebih spesifik dari yang lainnya, dan berperan sebagai gudang data yang sewaktu-waktu dapat diambil. Data yang berada dalam Data Warehouse tersimpan dalam satu kesatuan, antara data yang satu dengan data yang lainnya saling terhubung yang tidak bisa dipecah-pecah, karena data yang ada merupakan suatu kesatuan dari seluruh Data Warehouse yang ada. Di dalam Data Warehouse adapun yang berperan penting yaitu OLTP (Online Transaction Processing) dan OLAP (Online Analytical Procesing), dimana OLTP berperan dalam mengelola, mengumpulkan, menyimpan dan memproses serta mendistribusikan informasi sedangkan OLAP berperan dalam memanipulasi serta menganalisis data yang bevolume besar dari berbagai perspektif.
 Penjelasan mengenai OLTP dan OLAP yaitu sebagai berikut :  <br>
 A. OLTP<br>

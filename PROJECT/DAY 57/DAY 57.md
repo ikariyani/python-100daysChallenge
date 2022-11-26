@@ -1,6 +1,6 @@
 <img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
 
-BIGQUERY : Billing System of BigQuery<br>
+# BIGQUERY : Billing System of BigQuery<br>
 Harga BigQuery didasarkan pada jenis analisis, penyimpanan, layanan tambahan, serta penyerapan dan ekstraksi data. Memuat dan mengekspor data gratis.<br>
 1. Sistem Penghitungan Harga pada BigQuery<br>
 Penetapan harga BigQuery memiliki dua komponen utama yaitu harga analisis dan harga penyimpanan. Harga analisis adalah biaya untuk memproses kueri, termasuk kueri SQL, fungsi yang ditentukan pengguna, skrip, dan pernyataan bahasa manipulasi data (DML) dan bahasa definisi data (DDL) tertentu yang memindai tabel. Sedangkan harga penyimpanan adalah biaya untuk menyimpan data yang dimuat ke BigQuery.<br>

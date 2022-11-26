@@ -1,5 +1,6 @@
 <img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
 
+# Introduction to BigQuery
 A. Setup Free Trial Google Cloud<br>
 1. Buka halaman Google Cloud Platform di ```https://cloud.google.com/```<br>
 2. Pilih ```Get Started For Free```<br>

@@ -1,0 +1,2 @@
+Nama,jenis_kelamin,alamat,pekerjaan.nama_perusahaan,pekerjaan.jabatan,
+Agus,Laki-laki,Jakarta,ABSCD,CEO
