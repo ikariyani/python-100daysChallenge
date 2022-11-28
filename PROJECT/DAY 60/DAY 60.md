@@ -1,0 +1,6 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# BIGQUERY : Import from Google Spreadsheet<br>
+
+Pada hari ini saya belajar mengenai import data dari google spreadsheet ke BigQuery. Langkah - langkah untuk bisa melakukan import data dari spreadsheet hampir sama dengan import file dengan tipe CSV, yaitu pada ``` Dataset ``` lakukanlah ``` Create Table```, kemudian pada kolom ``` Source ``` pilihlah ``` Drive ```, kemudian salin link google spreadsheet yang ada, kolom ``` file format ``` dapat diisi dengan ```Google Sheet```. Setelah itu bisa langsung dilakukan ```Create Table```. <br>
+Format google spreadsheet pada BigQuery ini akan sangat berguna jika data yang ada memiliki perubahan yang cukup aktif, karena setiap perubahan yang ada pada spreadsheet dapat langsung terbaca pada BigQuery dengan melakukan kueri. Melalui cara ini, kita tidak harus melakukan import setiap file pada setiap perubahan data yang ada.
