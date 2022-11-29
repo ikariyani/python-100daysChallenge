@@ -1,0 +1,5 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# BIGQUERY : Scheduling Queries<br>
+Pada hari ini saya belajar mengenai membuat jadwal kueri secara otomatis pada BigQuery. Pada BigQuery, kita dapat melakukan kueri  pada data yang ada. Apabila kita memiliki data yang perubahannya cukup aktif, maka kita harus sering melakukan kueri untuk mendapatkan data yang paling update. Dengan adanya fitur pada BigQuery untuk bisa membuat jadwal kueri secara otomatis, maka ini akan sangat berguna. <br>
+Membuat jadwal kueri otomatis pada BigQuery dapat dilakukan dengan melalukan setting pada ``` Schedule ```. Pada setting Schedule Query, kita dapat memilih jangka waktu untuk melakukan setiap kueri, baik harian, bulanan, tahunan maupun waktu yang diinginkan. Selain itu, kita juga dapat menentukan kapan kueri otomatis itu dimulai dan berhenti. Dengan adanya jadwal kueri secara otomatis ini, maka kita akan mendapatkan data terbaru dalam setiap kueri pada waktu kueri yang telah ditentukan.
