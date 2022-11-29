@@ -61,3 +61,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 58 : BIGQUERY - Nested Data with JSON ](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2058/DAY%2058.md)
 * [Day 59 : BIGQUERY - Query Performance in BigQuery](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2059/DAY%2059.md)
 * [Day 60 : BIGQUERY - Import from Google Spreadsheet](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2060/DAY%2060.md)
+* [Day 61 : BIGQUERY - Scheduling Queries](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2061/DAY%2061.md)
