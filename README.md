@@ -63,3 +63,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 60 : BIGQUERY - Import from Google Spreadsheet](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2060/DAY%2060.md)
 * [Day 61 : BIGQUERY - Scheduling Queries](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2061/DAY%2061.md)
 * [Day 62 : BIGQUERY - Explore to Google Spreadsheet](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2062/DAY%2062.md)
+* [Day 63 : BIGQUERY : Explore to Google Colab Notebook](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2063/DAY%2063.md)
