@@ -1,0 +1,5 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# BIGQUERY : Explore using Public Dataset<br>
+Pada hari ini saya belajar mengenai Explore Data dengan Public Dataset pada Google Cloud. Public Dataset adalah set data apa pun yang disimpan di BigQuery dan tersedia untuk masyarakat umum melalui Program Set Data Publik Google Cloud. Kumpulan data publik adalah kumpulan data yang dihosting oleh BigQuery untuk dapat diakses dan diintegrasikan ke dalam aplikasi. Google membayar penyimpanan set data ini dan menyediakan akses publik ke data tersebut melalui proyek. Anda hanya membayar untuk kueri yang  dilakukan pada data. 1 TB pertama per bulan gratis, bergantung pada detail harga kueri.<br>
+Public Dataset ini dapat digunakan seperti halnya data pada google sheet, collab notebook, ataupun data pribadi yang diupload.
