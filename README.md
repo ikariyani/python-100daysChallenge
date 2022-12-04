@@ -66,3 +66,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 63 : BIGQUERY - Explore to Google Colab Notebook](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2063/DAY%2063.md)
 * [Day 64 : BIGQUERY - Explore to Google Data Studio](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2064/DAY%2064.md)
 * [Day 65 : BIGQUERY - Explore using Public Dataset](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2065/DAY%2065.md)
+* [Day 66 : GOOGLE DATA STUDIO - Import from Spreadsheet](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2066/DAY%2066.md)
