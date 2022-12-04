@@ -1,0 +1,5 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# GOOGLE DATA STUDIO : Import from Spreadsheet<br>
+Pada hari ini saya belajar mengenai import data dari Spreadsheet ke Google Data Studio. 
+Google Data Studio adalah sebuah Google tools yang digunakan untuk analisa data yang memudahkan proses pemahaman data oleh pengguna.Dengan menggunakan Google Data Studio, kita bisa membuat interactive dashboard serta menyusun laporan data yang menarik dan mudah dipahami. Google data studio dapat digunakan untuk melakukan visualisasi data yang berasal dari berbagai sumber data, salah satunya yaitu Google Spreadsheet. Untuk dapat melakukan visualisasi menggunakan Spreadsheet, maka data yang terdapat pada spreadsheet tersebut harus dikoneksikan terlebih dahulu dengan google data studio/looker studio. Setelah data tersebut bisa dikoneksikan, maka data tersebut sudah bisa dilakukan visualisasi.
