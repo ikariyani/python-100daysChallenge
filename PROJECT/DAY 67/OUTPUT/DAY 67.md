@@ -1,0 +1,5 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# GOOGLE DATA STUDIO : Import from BigQuery<br>
+Pada hari ini saya belajar mengenai import data dari BigQuery ke Google Data Studio atau Looker Studio. 
+Google data studio dapat digunakan untuk melakukan visualisasi data yang berasal dari berbagai sumber data, salah satunya yaitu BigQuery. Untuk dapat melakukan visualisasi menggunakan BigQuery, maka data yang terdapat pada BigQuery tersebut harus dikoneksikan terlebih dahulu dengan google data studio/looker studio. Setelah data tersebut bisa dikoneksikan, maka data tersebut sudah bisa dilakukan visualisasi atau dibuat laporan menggunakan Google Data Studio atau Looker Studio.
