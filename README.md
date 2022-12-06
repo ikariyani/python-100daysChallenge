@@ -68,3 +68,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 65 : BIGQUERY - Explore using Public Dataset](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2065/DAY%2065.md)
 * [Day 66 : GOOGLE DATA STUDIO - Import from Spreadsheet](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2066/DAY%2066.md)
 * [Day 67 : GOOGLE DATA STUDIO - Import from BigQuery](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2067/DAY%2067.md)
+* [Day 68 : GOOGLE DATA STUDIO - Add and Configure Fields and Parameters](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2068/DAY%2068.md)
