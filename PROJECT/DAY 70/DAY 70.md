@@ -1,0 +1,4 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# GOOGLE DATA STUDIO : Working with Controls<br>
+Pada hari ini saya belajar mengenai Control pada Google Data Studio atau Looker Studio. Pada google data studio, kita dapat melakukan filter/control pada data yang disajikan untuk dapat memilih hanya sebagian data yang ingin kita ketahui. Filter/control ini terdapat beberapa macam, diantaranya dengan filter dropdown, filter dengan ukuran/rentang tertentu, kotak input, penggeser, kotak centang, filter rentang tanggal, serta control data. Beberapa filter/control tersebut dapat digunakan sesuai dengan kebutuhan, dan bisa dikombinasikan dengan berbagai diagram yang dibuat, sehingga data yang disajikan lebih interaktif.

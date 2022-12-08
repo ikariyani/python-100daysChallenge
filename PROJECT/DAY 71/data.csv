@@ -1,0 +1,454 @@
+,Rank,City,Crime Index,Safety Index,Kategori
+0,1,"Caracas, Venezuela",83.98,16.02,Non Asia Tenggara
+1,2,"Pretoria, South Africa",81.98,18.02,Non Asia Tenggara
+2,3,"Celaya, Mexico",81.8,18.2,Non Asia Tenggara
+3,4,"San Pedro Sula, Honduras",80.87,19.13,Non Asia Tenggara
+4,5,"Port Moresby, Papua New Guinea",80.71,19.29,Non Asia Tenggara
+5,6,"Durban, South Africa",80.6,19.4,Non Asia Tenggara
+6,7,"Johannesburg, South Africa",80.55,19.45,Non Asia Tenggara
+7,8,"Kabul, Afghanistan",79.39,20.61,Non Asia Tenggara
+8,9,"Rio de Janeiro, Brazil",77.93,22.07,Non Asia Tenggara
+9,10,"Natal, Brazil",77.69,22.31,Non Asia Tenggara
+10,11,"Fortaleza, Brazil",77.36,22.64,Non Asia Tenggara
+11,12,"Port Elizabeth, South Africa",76.44,23.56,Non Asia Tenggara
+12,13,"Recife, Brazil",76.42,23.58,Non Asia Tenggara
+13,14,"Port of Spain, Trinidad And Tobago",76.21,23.79,Non Asia Tenggara
+14,15,"Baltimore, MD, United States",75.75,24.25,Non Asia Tenggara
+15,16,"Salvador, Brazil",75.69,24.31,Non Asia Tenggara
+16,17,"Rosario, Argentina",75.11,24.89,Non Asia Tenggara
+17,18,"Memphis, TN, United States",74.76,25.24,Non Asia Tenggara
+18,19,"Detroit, MI, United States",74.63,25.37,Non Asia Tenggara
+19,20,"Rockhampton, Australia",73.51,26.49,Non Asia Tenggara
+20,21,"Cape Town, South Africa",73.13,26.87,Non Asia Tenggara
+21,22,"Porto Alegre, Brazil",72.92,27.08,Non Asia Tenggara
+22,23,"Tijuana, Mexico",71.87,28.13,Non Asia Tenggara
+23,24,"Kingston, Jamaica",71.44,28.56,Non Asia Tenggara
+24,25,"Bloemfontein, South Africa",71.32,28.68,Non Asia Tenggara
+25,26,"Bradford, United Kingdom",71.24,28.76,Non Asia Tenggara
+26,27,"Albuquerque, NM, United States",70.93,29.07,Non Asia Tenggara
+27,28,"Lima, Peru",70.7,29.3,Non Asia Tenggara
+28,29,"Guayaquil, Ecuador",70.59,29.41,Non Asia Tenggara
+29,30,"Sao Paulo, Brazil",70.49,29.51,Non Asia Tenggara
+30,31,"Saint Louis, MO, United States",70.46,29.54,Non Asia Tenggara
+31,32,"San Salvador, El Salvador",69.79,30.21,Non Asia Tenggara
+32,33,"Cali, Colombia",69.5,30.5,Non Asia Tenggara
+33,34,"Mexico City, Mexico",68.86,31.14,Non Asia Tenggara
+34,35,"Windhoek, Namibia",68.64,31.36,Non Asia Tenggara
+35,36,"San Juan, Puerto Rico",68.55,31.45,Non Asia Tenggara
+36,37,"Santo Domingo, Dominican Republic",68.37,31.63,Non Asia Tenggara
+37,38,"Coventry, United Kingdom",68.35,31.65,Non Asia Tenggara
+38,39,"Damascus, Syria",67.94,32.06,Non Asia Tenggara
+39,40,"Luanda, Angola",67.45,32.55,Non Asia Tenggara
+40,41,"New Orleans, LA, United States",67.05,32.95,Non Asia Tenggara
+41,42,"Milwaukee, WI, United States",66.78,33.22,Non Asia Tenggara
+42,43,"Campinas, Brazil",66.74,33.26,Non Asia Tenggara
+43,44,"Oakland, CA, United States",66.54,33.46,Non Asia Tenggara
+44,45,"Lagos, Nigeria",66.22,33.78,Non Asia Tenggara
+45,46,"Chicago, IL, United States",66.1,33.9,Non Asia Tenggara
+46,47,"Nantes, France",65.7,34.3,Non Asia Tenggara
+47,48,"Bogota, Colombia",65.42,34.58,Non Asia Tenggara
+48,49,"Manila, Philippines",64.72,35.28,Asia Tenggara
+49,50,"Surrey, Canada",64.58,35.42,Non Asia Tenggara
+50,51,"Cleveland, OH, United States",64.39,35.61,Non Asia Tenggara
+51,52,"Houston, TX, United States",64.32,35.68,Non Asia Tenggara
+52,53,"Almaty, Kazakhstan",64.17,35.83,Non Asia Tenggara
+53,54,"Male, Maldives",63.89,36.11,Non Asia Tenggara
+54,55,"Lethbridge, AB, Canada",63.89,36.11,Non Asia Tenggara
+55,56,"Dhaka, Bangladesh",63.66,36.34,Non Asia Tenggara
+56,57,"Philadelphia, PA, United States",63.65,36.35,Non Asia Tenggara
+57,58,"Belo Horizonte, Brazil",63.54,36.46,Non Asia Tenggara
+58,59,"Catania, Italy",63.51,36.49,Non Asia Tenggara
+59,60,"Kuala Lumpur, Malaysia",63.4,36.6,Asia Tenggara
+60,61,"Buenos Aires, Argentina",63.33,36.67,Non Asia Tenggara
+61,62,"Klang, Malaysia",62.84,37.16,Non Asia Tenggara
+62,63,"Atlanta, GA, United States",62.77,37.23,Non Asia Tenggara
+63,64,"Birmingham, United Kingdom",62.68,37.32,Non Asia Tenggara
+64,65,"Guatemala City, Guatemala",62.65,37.35,Non Asia Tenggara
+65,66,"Marseille, France",62.51,37.49,Non Asia Tenggara
+66,67,"Tripoli, Libya",62.29,37.71,Non Asia Tenggara
+67,68,"Anchorage, AK, United States",62.27,37.73,Non Asia Tenggara
+68,69,"Curitiba, Brazil",62.19,37.81,Non Asia Tenggara
+69,70,"Guadalajara, Mexico",61.99,38.01,Non Asia Tenggara
+70,71,"Red Deer, Canada",61.75,38.25,Non Asia Tenggara
+71,72,"Kelowna, Canada",61.56,38.44,Non Asia Tenggara
+72,73,"Quezon City, Philippines",60.99,39.01,Non Asia Tenggara
+73,74,"Quito, Ecuador",60.92,39.08,Non Asia Tenggara
+74,75,"Puebla, Mexico",60.58,39.42,Non Asia Tenggara
+75,76,"Cairns, Australia",60.57,39.43,Non Asia Tenggara
+76,77,"Cordoba, Argentina",60.38,39.62,Non Asia Tenggara
+77,78,"Harare, Zimbabwe",60.35,39.65,Non Asia Tenggara
+78,79,"Craiova, Romania",60.2,39.8,Non Asia Tenggara
+79,80,"San Francisco, CA, United States",60.1,39.9,Non Asia Tenggara
+80,81,"Sudbury, Canada",60.1,39.9,Non Asia Tenggara
+81,82,"Naples, Italy",59.96,40.04,Non Asia Tenggara
+82,83,"Dar es Salaam, Tanzania",59.9,40.1,Non Asia Tenggara
+83,84,"Ghaziabad, India",59.83,40.17,Non Asia Tenggara
+84,85,"Sault Ste. Marie, Canada",59.81,40.19,Non Asia Tenggara
+85,86,"Santiago, Chile",59.8,40.2,Non Asia Tenggara
+86,87,"Brasilia, Brazil",59.46,40.54,Non Asia Tenggara
+87,88,"Nice, France",59.43,40.57,Non Asia Tenggara
+88,89,"Washington, DC, United States",59.43,40.57,Non Asia Tenggara
+89,90,"Delhi, India",59.15,40.85,Non Asia Tenggara
+90,91,"Baghdad, Iraq",59.13,40.87,Non Asia Tenggara
+91,92,"Nairobi, Kenya",59.03,40.97,Non Asia Tenggara
+92,93,"Winnipeg, Canada",58.93,41.07,Non Asia Tenggara
+93,94,"Minsk, Belarus",58.72,41.28,Non Asia Tenggara
+94,95,"Darwin, Australia",58.47,41.53,Non Asia Tenggara
+95,96,"Indianapolis, IN, United States",57.66,42.34,Non Asia Tenggara
+96,97,"Kansas City, MO, United States",57.41,42.59,Non Asia Tenggara
+97,98,"Liege, Belgium",57.38,42.62,Non Asia Tenggara
+98,99,"Noida, India",57.12,42.88,Non Asia Tenggara
+99,100,"Jacksonville, FL, United States",56.82,43.18,Non Asia Tenggara
+100,101,"Malmo, Sweden",56.59,43.41,Non Asia Tenggara
+101,102,"Athens, Greece",56.42,43.58,Non Asia Tenggara
+102,103,"Louisville, KY, United States",56.06,43.94,Non Asia Tenggara
+103,104,"Paris, France",56.02,43.98,Non Asia Tenggara
+104,105,"Manchester, United Kingdom",55.81,44.19,Non Asia Tenggara
+105,106,"Geelong, Australia",55.76,44.24,Non Asia Tenggara
+106,107,"Tehran, Iran",55.72,44.28,Non Asia Tenggara
+107,108,"Gaborone, Botswana",55.67,44.33,Non Asia Tenggara
+108,109,"Casablanca, Morocco",55.39,44.61,Non Asia Tenggara
+109,110,"San Jose, Costa Rica",55.38,44.62,Non Asia Tenggara
+110,111,"Ulaanbaatar, Mongolia",55.34,44.66,Non Asia Tenggara
+111,112,"Cancun, Mexico",55.18,44.82,Non Asia Tenggara
+112,113,"Montpellier, France",55.16,44.84,Non Asia Tenggara
+113,114,"Minneapolis, MN, United States",55.1,44.9,Non Asia Tenggara
+114,115,"Gurgaon, India",55.09,44.91,Non Asia Tenggara
+115,116,"Oshawa, Canada",55.08,44.92,Non Asia Tenggara
+116,117,"Spokane, WA, United States",55.06,44.94,Non Asia Tenggara
+117,118,"Ballarat, Australia",55.05,44.95,Non Asia Tenggara
+118,119,"Brampton, Canada",54.98,45.02,Non Asia Tenggara
+119,120,"Las Vegas, NV, United States",54.89,45.11,Non Asia Tenggara
+120,121,"Montevideo, Uruguay",54.81,45.19,Non Asia Tenggara
+121,122,"Bangalore, India",54.81,45.19,Non Asia Tenggara
+122,123,"Thessaloniki, Greece",54.8,45.2,Non Asia Tenggara
+123,124,"Hamilton, Canada",54.53,45.47,Non Asia Tenggara
+124,125,"Bilbao, Spain",54.42,45.58,Non Asia Tenggara
+125,126,"Lille, France",54.33,45.67,Non Asia Tenggara
+126,127,"Grenoble, France",54.2,45.8,Non Asia Tenggara
+127,128,"Karachi, Pakistan",54.1,45.9,Non Asia Tenggara
+128,129,"Johor Bahru, Malaysia",54.07,45.93,Non Asia Tenggara
+129,130,"Algiers, Algeria",53.88,46.12,Non Asia Tenggara
+130,131,"Ho Chi Minh City, Vietnam",53.61,46.39,Non Asia Tenggara
+131,132,"London, Canada",53.59,46.41,Non Asia Tenggara
+132,133,"Phnom Penh, Cambodia",53.56,46.44,Asia Tenggara
+133,134,"Jakarta, Indonesia",53.3,46.7,Asia Tenggara
+134,135,"London, United Kingdom",53.29,46.71,Non Asia Tenggara
+135,136,"Toowoomba, Australia",53.17,46.83,Non Asia Tenggara
+136,137,"Odessa (Odesa), Ukraine",53.17,46.83,Non Asia Tenggara
+137,138,"Medellin, Colombia",53.12,46.88,Non Asia Tenggara
+138,139,"Rome, Italy",53.11,46.89,Non Asia Tenggara
+139,140,"Rennes, France",53.0,47.0,Non Asia Tenggara
+140,141,"Petaling Jaya, Malaysia",52.99,47.01,Non Asia Tenggara
+141,142,"Amadora, Portugal",52.98,47.02,Non Asia Tenggara
+142,143,"Drogheda, Ireland",52.96,47.04,Non Asia Tenggara
+143,144,"Portland, OR, United States",52.85,47.15,Non Asia Tenggara
+144,145,"Regina, Canada",52.82,47.18,Non Asia Tenggara
+145,146,"Kamloops, Canada",52.63,47.37,Non Asia Tenggara
+146,147,"Brussels, Belgium",52.41,47.59,Non Asia Tenggara
+147,148,"Dnipro, Ukraine",52.31,47.69,Non Asia Tenggara
+148,149,"Rostov-na-donu, Russia",52.3,47.7,Non Asia Tenggara
+149,150,"Miami, FL, United States",52.28,47.72,Non Asia Tenggara
+150,151,"Phoenix, AZ, United States",52.23,47.77,Non Asia Tenggara
+151,152,"Bari, Italy",52.15,47.85,Non Asia Tenggara
+152,153,"Dublin, Ireland",51.91,48.09,Non Asia Tenggara
+153,154,"Cebu, Philippines",51.88,48.12,Non Asia Tenggara
+154,155,"Wollongong, Australia",51.73,48.27,Non Asia Tenggara
+155,156,"Florianopolis, Brazil",51.49,48.51,Non Asia Tenggara
+156,157,"Orlando, FL, United States",51.41,48.59,Non Asia Tenggara
+157,158,"Ufa, Russia",51.4,48.6,Non Asia Tenggara
+158,159,"San Miguel de Allende, Mexico",51.35,48.65,Non Asia Tenggara
+159,160,"Seattle, WA, United States",51.35,48.65,Non Asia Tenggara
+160,161,"Lyon, France",51.29,48.71,Non Asia Tenggara
+161,162,"Turin, Italy",51.28,48.72,Non Asia Tenggara
+162,163,"Nottingham, United Kingdom",51.16,48.84,Non Asia Tenggara
+163,164,"Los Angeles, CA, United States",50.82,49.18,Non Asia Tenggara
+164,165,"Dallas, TX, United States",50.64,49.36,Non Asia Tenggara
+165,166,"Tucson, AZ, United States",50.29,49.71,Non Asia Tenggara
+166,167,"Cairo, Egypt",49.68,50.32,Non Asia Tenggara
+167,168,"Playa del Carmen, Mexico",49.45,50.55,Non Asia Tenggara
+168,169,"Constanta, Romania",49.32,50.68,Non Asia Tenggara
+169,170,"Asuncion, Paraguay",49.29,50.71,Non Asia Tenggara
+170,171,"Nanaimo, BC, Canada",49.23,50.77,Non Asia Tenggara
+171,172,"Toulouse, France",48.92,51.08,Non Asia Tenggara
+172,173,"Barcelona, Spain",48.87,51.13,Non Asia Tenggara
+173,174,"Mysore, India",48.85,51.15,Non Asia Tenggara
+174,175,"Saskatoon, Canada",48.81,51.19,Non Asia Tenggara
+175,176,"Kharkiv, Ukraine",48.65,51.35,Non Asia Tenggara
+176,177,"Liverpool, United Kingdom",48.63,51.37,Non Asia Tenggara
+177,178,"Indore, India",48.61,51.39,Non Asia Tenggara
+178,179,"Sacramento, CA, United States",48.6,51.4,Non Asia Tenggara
+179,180,"Rawalpindi, Pakistan",48.57,51.43,Non Asia Tenggara
+180,181,"Lucknow (Lakhnau), India",48.41,51.59,Non Asia Tenggara
+181,182,"Bordeaux, France",48.39,51.61,Non Asia Tenggara
+182,183,"Cincinnati, OH, United States",48.37,51.63,Non Asia Tenggara
+183,184,"Bali, Indonesia",48.36,51.64,Non Asia Tenggara
+184,185,"San Antonio, TX, United States",48.24,51.76,Non Asia Tenggara
+185,186,"New York, NY, United States",48.13,51.87,Non Asia Tenggara
+186,187,"Richmond, VA, United States",47.77,52.23,Non Asia Tenggara
+187,188,"Istanbul, Turkey",47.62,52.38,Non Asia Tenggara
+188,189,"Tampa, FL, United States",47.55,52.45,Non Asia Tenggara
+189,190,"St.Catharines, Canada",47.42,52.58,Non Asia Tenggara
+190,191,"Gothenburg, Sweden",47.34,52.66,Non Asia Tenggara
+191,192,"Monterrey, Mexico",47.2,52.8,Non Asia Tenggara
+192,193,"Podgorica, Montenegro",47.2,52.8,Non Asia Tenggara
+193,194,"Panama City, Panama",47.16,52.84,Non Asia Tenggara
+194,195,"Addis Ababa, Ethiopia",47.15,52.85,Non Asia Tenggara
+195,196,"Tunis, Tunisia",47.14,52.86,Non Asia Tenggara
+196,197,"Yekaterinburg, Russia",47.13,52.87,Non Asia Tenggara
+197,198,"St. John's, Newfoundland and Labrador, Canada",46.99,53.01,Non Asia Tenggara
+198,199,"Novosibirsk, Russia",46.92,53.08,Non Asia Tenggara
+199,200,"Accra, Ghana",46.88,53.12,Non Asia Tenggara
+200,201,"Milan, Italy",46.84,53.16,Non Asia Tenggara
+201,202,"Nashville, TN, United States",46.84,53.16,Non Asia Tenggara
+202,203,"Omaha, NE, United States",46.76,53.24,Non Asia Tenggara
+203,204,"Skopje, North Macedonia",46.76,53.24,Non Asia Tenggara
+204,205,"Auckland, New Zealand",46.75,53.25,Non Asia Tenggara
+205,206,"Kolkata, India",46.68,53.32,Non Asia Tenggara
+206,207,"Beirut, Lebanon",46.67,53.33,Non Asia Tenggara
+207,208,"Bologna, Italy",46.62,53.38,Non Asia Tenggara
+208,209,"Newcastle, Australia",46.6,53.4,Non Asia Tenggara
+209,210,"Palermo, Italy",46.59,53.41,Non Asia Tenggara
+210,211,"Hamilton, New Zealand",46.57,53.43,Non Asia Tenggara
+211,212,"Pattaya, Thailand",46.45,53.55,Non Asia Tenggara
+212,213,"Buffalo, NY, United States",46.45,53.55,Non Asia Tenggara
+213,214,"Honolulu, HI, United States",46.24,53.76,Non Asia Tenggara
+214,215,"Gold Coast, Australia",46.19,53.81,Non Asia Tenggara
+215,216,"Stockholm, Sweden",45.97,54.03,Non Asia Tenggara
+216,217,"Glasgow, United Kingdom",45.93,54.07,Non Asia Tenggara
+217,218,"San Jose, CA, United States",45.9,54.1,Non Asia Tenggara
+218,219,"Charlotte, NC, United States",45.77,54.23,Non Asia Tenggara
+219,220,"Vitoria, Brazil",45.72,54.28,Non Asia Tenggara
+220,221,"Kiev (Kyiv), Ukraine",45.69,54.31,Non Asia Tenggara
+221,222,"Kuching, Malaysia",45.45,54.55,Non Asia Tenggara
+222,223,"Mumbai, India",45.28,54.72,Non Asia Tenggara
+223,224,"Sarajevo, Bosnia And Herzegovina",45.21,54.79,Non Asia Tenggara
+224,225,"Moncton, Canada",45.04,54.96,Non Asia Tenggara
+225,226,"Belfast, United Kingdom",44.9,55.1,Non Asia Tenggara
+226,227,"Denver, CO, United States",44.87,55.13,Non Asia Tenggara
+227,228,"Chisinau, Moldova",44.74,55.26,Non Asia Tenggara
+228,229,"Edmonton, Canada",44.56,55.44,Non Asia Tenggara
+229,230,"Tirana, Albania",44.5,55.5,Non Asia Tenggara
+230,231,"Melbourne, Australia",44.39,55.61,Non Asia Tenggara
+231,232,"Frankfurt, Germany",44.12,55.88,Non Asia Tenggara
+232,233,"Kristiansand, Norway",44.06,55.94,Non Asia Tenggara
+233,234,"Columbus, OH, United States",43.98,56.02,Non Asia Tenggara
+234,235,"Hyderabad, India",43.87,56.13,Non Asia Tenggara
+235,236,"Sheffield, United Kingdom",43.86,56.14,Non Asia Tenggara
+236,237,"Chandigarh, India",43.46,56.54,Non Asia Tenggara
+237,238,"Leeds, United Kingdom",43.34,56.66,Non Asia Tenggara
+238,239,"Windsor, Canada",43.25,56.75,Non Asia Tenggara
+239,240,"Mississauga, Canada",43.06,56.94,Non Asia Tenggara
+240,241,"Vaughan, Canada",42.7,57.3,Non Asia Tenggara
+241,242,"Cologne, Germany",42.65,57.35,Non Asia Tenggara
+242,243,"Hamburg, Germany",42.56,57.44,Non Asia Tenggara
+243,244,"Genoa, Italy",42.51,57.49,Non Asia Tenggara
+244,245,"Berlin, Germany",42.24,57.76,Non Asia Tenggara
+245,246,"Sofia, Bulgaria",42.13,57.87,Non Asia Tenggara
+246,247,"Lodz, Poland",42.09,57.91,Non Asia Tenggara
+247,248,"Bristol, United Kingdom",41.81,58.19,Non Asia Tenggara
+248,249,"Perth, Australia",41.61,58.39,Non Asia Tenggara
+249,250,"Pune, India",41.56,58.44,Non Asia Tenggara
+250,251,"Bremen, Germany",41.52,58.48,Non Asia Tenggara
+251,252,"Toronto, Canada",41.52,58.48,Non Asia Tenggara
+252,253,"Novi Sad, Serbia",41.41,58.59,Non Asia Tenggara
+253,254,"Iloilo, Philippines",41.38,58.62,Non Asia Tenggara
+254,255,"Cuenca, Ecuador",41.36,58.64,Non Asia Tenggara
+255,256,"Hanover, Germany",41.29,58.71,Non Asia Tenggara
+256,257,"Katowice, Poland",41.26,58.74,Non Asia Tenggara
+257,258,"Kochi, India",41.21,58.79,Non Asia Tenggara
+258,259,"Colombo, Sri Lanka",41.19,58.81,Non Asia Tenggara
+259,260,"Halifax, Canada",41.16,58.84,Non Asia Tenggara
+260,261,"Christchurch, New Zealand",41.15,58.85,Non Asia Tenggara
+261,262,"Bangkok, Thailand",40.98,59.02,Asia Tenggara
+262,263,"Kitchener, Canada",40.97,59.03,Non Asia Tenggara
+263,264,"Leipzig, Germany",40.86,59.14,Non Asia Tenggara
+264,265,"Brooklyn, NY, United States",40.78,59.22,Non Asia Tenggara
+265,266,"Uppsala, Sweden",40.56,59.44,Non Asia Tenggara
+266,267,"Chennai, India",40.45,59.55,Non Asia Tenggara
+267,268,"Bonn, Germany",40.43,59.57,Non Asia Tenggara
+268,269,"Limerick, Ireland",40.28,59.72,Non Asia Tenggara
+269,270,"Alexandria, Egypt",40.24,59.76,Non Asia Tenggara
+270,271,"Florence, Italy",40.23,59.77,Non Asia Tenggara
+271,272,"Thiruvananthapuram, India",39.54,60.46,Non Asia Tenggara
+272,273,"Coimbatore, India",39.53,60.47,Non Asia Tenggara
+273,274,"Saint Petersburg, Russia",39.51,60.49,Non Asia Tenggara
+274,275,"Ankara, Turkey",39.41,60.59,Non Asia Tenggara
+275,276,"Boston, MA, United States",39.25,60.75,Non Asia Tenggara
+276,277,"Newcastle upon Tyne, United Kingdom",39.15,60.85,Non Asia Tenggara
+277,278,"Riverside, CA, United States",38.97,61.03,Non Asia Tenggara
+278,279,"Lviv, Ukraine",38.89,61.11,Non Asia Tenggara
+279,280,"Amman, Jordan",38.82,61.18,Non Asia Tenggara
+280,281,"Makati, Philippines",38.39,61.61,Non Asia Tenggara
+281,282,"Vancouver, Canada",38.25,61.75,Non Asia Tenggara
+282,283,"Pittsburgh, PA, United States",38.19,61.81,Non Asia Tenggara
+283,284,"Hanoi, Vietnam",38.12,61.88,Asia Tenggara
+284,285,"Karlsruhe, Germany",38.09,61.91,Non Asia Tenggara
+285,286,"Victoria, Canada",38.05,61.95,Non Asia Tenggara
+286,287,"Belgrade, Serbia",38.01,61.99,Non Asia Tenggara
+287,288,"Strasbourg, France",37.93,62.07,Non Asia Tenggara
+288,289,"Riga, Latvia",37.91,62.09,Non Asia Tenggara
+289,290,"Visakhapatnam, India",37.8,62.2,Non Asia Tenggara
+290,291,"Kaunas, Lithuania",37.58,62.42,Non Asia Tenggara
+291,292,"Antwerp, Belgium",37.56,62.44,Non Asia Tenggara
+292,293,"Cardiff, United Kingdom",37.51,62.49,Non Asia Tenggara
+293,294,"Kathmandu, Nepal",37.25,62.75,Non Asia Tenggara
+294,295,"Moscow, Russia",37.25,62.75,Non Asia Tenggara
+295,296,"Austin, TX, United States",37.25,62.75,Non Asia Tenggara
+296,297,"Baguio, Philippines",37.17,62.83,Non Asia Tenggara
+297,298,"San Diego, CA, United States",37.15,62.85,Non Asia Tenggara
+298,299,"Varna, Bulgaria",37.13,62.87,Non Asia Tenggara
+299,300,"Calgary, Canada",36.82,63.18,Non Asia Tenggara
+300,301,"Nagpur, India",36.77,63.23,Non Asia Tenggara
+301,302,"Queretaro, Mexico",36.74,63.26,Non Asia Tenggara
+302,303,"Oulu, Finland",36.51,63.49,Non Asia Tenggara
+303,304,"Brighton, United Kingdom",36.49,63.51,Non Asia Tenggara
+304,305,"Klaipeda, Lithuania",36.46,63.54,Non Asia Tenggara
+305,306,"Guangzhou, China",36.41,63.59,Non Asia Tenggara
+306,307,"Cagliari, Italy",36.37,63.63,Non Asia Tenggara
+307,308,"Jerusalem, Israel",36.24,63.76,Non Asia Tenggara
+308,309,"Rabat, Morocco",36.17,63.83,Non Asia Tenggara
+309,310,"Rotterdam, Netherlands",36.16,63.84,Non Asia Tenggara
+310,311,"Cork, Ireland",36.03,63.97,Non Asia Tenggara
+311,312,"Lahore, Pakistan",35.77,64.23,Non Asia Tenggara
+312,313,"Boise, ID, United States",35.66,64.34,Non Asia Tenggara
+313,314,"Penang, Malaysia",35.59,64.41,Non Asia Tenggara
+314,315,"Surat, India",35.55,64.45,Non Asia Tenggara
+315,316,"Jaipur, India",35.52,64.48,Non Asia Tenggara
+316,317,"Porto, Portugal",35.35,64.65,Non Asia Tenggara
+317,318,"Budapest, Hungary",35.06,64.94,Non Asia Tenggara
+318,319,"Brisbane, Australia",35.05,64.95,Non Asia Tenggara
+319,320,"Banja Luka, Bosnia And Herzegovina",34.77,65.23,Non Asia Tenggara
+320,321,"Raleigh, NC, United States",34.6,65.4,Non Asia Tenggara
+321,322,"Puerto Vallarta, Mexico",34.43,65.57,Non Asia Tenggara
+322,323,"Navi Mumbai, India",34.33,65.67,Non Asia Tenggara
+323,324,"Kingston, Canada",34.17,65.83,Non Asia Tenggara
+324,325,"Dusseldorf, Germany",34.06,65.94,Non Asia Tenggara
+325,326,"Oslo, Norway",34.06,65.94,Non Asia Tenggara
+326,327,"Madison, WI, United States",33.98,66.02,Non Asia Tenggara
+327,328,"Lund, Sweden",33.96,66.04,Non Asia Tenggara
+328,329,"Tashkent, Uzbekistan",33.86,66.14,Non Asia Tenggara
+329,330,"Sydney, Australia",33.81,66.19,Non Asia Tenggara
+330,331,"Aguascalientes, Mexico",33.74,66.26,Non Asia Tenggara
+331,332,"Aberdeen, United Kingdom",33.68,66.32,Non Asia Tenggara
+332,333,"Iasi, Romania",33.67,66.33,Non Asia Tenggara
+333,334,"Split, Croatia",33.62,66.38,Non Asia Tenggara
+334,335,"Nuremberg, Germany",33.48,66.52,Non Asia Tenggara
+335,336,"Shanghai, China",33.41,66.59,Non Asia Tenggara
+336,337,"Guelph, Canada",33.17,66.83,Non Asia Tenggara
+337,338,"Astana (Nur-Sultan), Kazakhstan",33.13,66.87,Non Asia Tenggara
+338,339,"Salt Lake City, UT, United States",33.11,66.89,Non Asia Tenggara
+339,340,"Amsterdam, Netherlands",33.06,66.94,Non Asia Tenggara
+340,341,"Vadodara, India",32.92,67.08,Non Asia Tenggara
+341,342,"El Paso, TX, United States",32.72,67.28,Non Asia Tenggara
+342,343,"Beijing, China",32.44,67.56,Non Asia Tenggara
+343,344,"Ahmedabad, India",32.4,67.6,Non Asia Tenggara
+344,345,"Osaka, Japan",32.35,67.65,Non Asia Tenggara
+345,346,"Palma de Mallorca, Spain",32.28,67.72,Non Asia Tenggara
+346,347,"Hobart, Australia",32.18,67.82,Non Asia Tenggara
+347,348,"Limassol, Cyprus",32.05,67.95,Non Asia Tenggara
+348,349,"Shenzhen, China",31.86,68.14,Non Asia Tenggara
+349,350,"Seville (Sevilla), Spain",31.59,68.41,Non Asia Tenggara
+350,351,"Freiburg im Breisgau, Germany",31.57,68.43,Non Asia Tenggara
+351,352,"Gdansk, Poland",31.41,68.59,Non Asia Tenggara
+352,353,"Havana, Cuba",31.2,68.8,Non Asia Tenggara
+353,354,"Montreal, Canada",30.99,69.01,Non Asia Tenggara
+354,355,"Izmir, Turkey",30.94,69.06,Non Asia Tenggara
+355,356,"Wroclaw, Poland",30.87,69.13,Non Asia Tenggara
+356,357,"Stuttgart, Germany",30.71,69.29,Non Asia Tenggara
+357,358,"Dresden, Germany",30.63,69.37,Non Asia Tenggara
+358,359,"Wellington, New Zealand",30.61,69.39,Non Asia Tenggara
+359,360,"Poznan, Poland",30.57,69.43,Non Asia Tenggara
+360,361,"Kuwait City, Kuwait",30.55,69.45,Non Asia Tenggara
+361,362,"Edinburgh, United Kingdom",30.51,69.49,Non Asia Tenggara
+362,363,"Baku, Azerbaijan",30.36,69.64,Non Asia Tenggara
+363,364,"Ad Dammam, Saudi Arabia",30.29,69.71,Non Asia Tenggara
+364,365,"Krakow (Cracow), Poland",30.28,69.72,Non Asia Tenggara
+365,366,"Luxembourg, Luxembourg",30.15,69.85,Non Asia Tenggara
+366,367,"Madrid, Spain",30.06,69.94,Non Asia Tenggara
+367,368,"Burlington, Canada",30.0,70.0,Non Asia Tenggara
+368,369,"Adelaide, Australia",29.98,70.02,Non Asia Tenggara
+369,370,"Bratislava, Slovakia",29.89,70.11,Non Asia Tenggara
+370,371,"Nicosia, Cyprus",29.87,70.13,Non Asia Tenggara
+371,372,"Cambridge, United Kingdom",29.61,70.39,Non Asia Tenggara
+372,373,"Islamabad, Pakistan",29.52,70.48,Non Asia Tenggara
+373,374,"Nizhny Novgorod, Russia",29.23,70.77,Non Asia Tenggara
+374,375,"Galway, Ireland",29.19,70.81,Non Asia Tenggara
+375,376,"Lisbon, Portugal",29.17,70.83,Non Asia Tenggara
+376,377,"Jeddah (Jiddah), Saudi Arabia",28.95,71.05,Non Asia Tenggara
+377,378,"Alicante, Spain",28.81,71.19,Non Asia Tenggara
+378,379,"Bucharest, Romania",28.25,71.75,Non Asia Tenggara
+379,380,"Bursa, Turkey",28.2,71.8,Non Asia Tenggara
+380,381,"Davao, Philippines",27.75,72.25,Non Asia Tenggara
+381,382,"Valencia, Spain",27.68,72.32,Non Asia Tenggara
+382,383,"Graz, Austria",27.38,72.62,Non Asia Tenggara
+383,384,"Warsaw, Poland",27.3,72.7,Non Asia Tenggara
+384,385,"Ottawa, Canada",27.27,72.73,Non Asia Tenggara
+385,386,"Singapore, Singapore",27.22,72.78,Asia Tenggara
+386,387,"Bergen, Norway",27.2,72.8,Non Asia Tenggara
+387,388,"Malaga, Spain",27.05,72.95,Non Asia Tenggara
+388,389,"Antalya, Turkey",27.03,72.97,Non Asia Tenggara
+389,390,"Haifa, Israel",26.86,73.14,Non Asia Tenggara
+390,391,"Vienna, Austria",26.85,73.15,Non Asia Tenggara
+391,392,"Utrecht, Netherlands",26.81,73.19,Non Asia Tenggara
+392,393,"Copenhagen, Denmark",26.67,73.33,Non Asia Tenggara
+393,394,"Tel Aviv-Yafo, Israel",26.62,73.38,Non Asia Tenggara
+394,395,"Geneva, Switzerland",26.61,73.39,Non Asia Tenggara
+395,396,"Vilnius, Lithuania",26.51,73.49,Non Asia Tenggara
+396,397,"Brasov, Romania",26.49,73.51,Non Asia Tenggara
+397,398,"Riyadh, Saudi Arabia",26.31,73.69,Non Asia Tenggara
+398,399,"Richmond Hill, Canada",26.28,73.72,Non Asia Tenggara
+399,400,"Gent, Belgium",26.26,73.74,Non Asia Tenggara
+400,401,"Trieste, Italy",26.17,73.83,Non Asia Tenggara
+401,402,"Brno, Czech Republic",26.08,73.92,Non Asia Tenggara
+402,403,"Oakville, Canada",25.74,74.26,Non Asia Tenggara
+403,404,"Aalborg, Denmark",25.54,74.46,Non Asia Tenggara
+404,405,"Lausanne, Switzerland",25.53,74.47,Non Asia Tenggara
+405,406,"Seoul, South Korea",25.38,74.62,Non Asia Tenggara
+406,407,"Tbilisi, Georgia",25.16,74.84,Non Asia Tenggara
+407,408,"Markham, Canada",25.15,74.85,Non Asia Tenggara
+408,409,"Mangalore, India",25.07,74.93,Non Asia Tenggara
+409,410,"Merida, Mexico",24.96,75.04,Non Asia Tenggara
+410,411,"Helsinki, Finland",24.92,75.08,Non Asia Tenggara
+411,412,"Eindhoven, Netherlands",24.32,75.68,Non Asia Tenggara
+412,413,"Kigali, Rwanda",24.16,75.84,Non Asia Tenggara
+413,414,"Prague, Czech Republic",24.1,75.9,Non Asia Tenggara
+414,415,"Timisoara, Romania",24.06,75.94,Non Asia Tenggara
+415,416,"Chiang Mai, Thailand",23.91,76.09,Non Asia Tenggara
+416,417,"Tokyo, Japan",23.79,76.21,Non Asia Tenggara
+417,418,"Tallinn, Estonia",23.59,76.41,Non Asia Tenggara
+418,419,"Rijeka, Croatia",23.43,76.57,Non Asia Tenggara
+419,420,"Stavanger, Norway",23.32,76.68,Non Asia Tenggara
+420,421,"Reykjavik, Iceland",23.02,76.98,Non Asia Tenggara
+421,422,"Amarillo, TX, United States",22.97,77.03,Non Asia Tenggara
+422,423,"Coquitlam, Canada",22.51,77.49,Non Asia Tenggara
+423,424,"Canberra, Australia",22.31,77.69,Non Asia Tenggara
+424,425,"The Hague (Den Haag), Netherlands",22.26,77.74,Non Asia Tenggara
+425,426,"Cluj-Napoca, Romania",22.16,77.84,Non Asia Tenggara
+426,427,"Tampere, Finland",21.86,78.14,Non Asia Tenggara
+427,428,"Yerevan, Armenia",21.66,78.34,Non Asia Tenggara
+428,429,"Hong Kong, Hong Kong",21.62,78.38,Non Asia Tenggara
+429,430,"Ljubljana, Slovenia",21.48,78.52,Non Asia Tenggara
+430,431,"Zagreb, Croatia",21.36,78.64,Non Asia Tenggara
+431,432,"Manama, Bahrain",21.06,78.94,Non Asia Tenggara
+432,433,"Irvine, CA, United States",20.9,79.1,Non Asia Tenggara
+433,434,"Groningen, Netherlands",20.8,79.2,Non Asia Tenggara
+434,435,"Tartu, Estonia",20.7,79.3,Non Asia Tenggara
+435,436,"Arhus, Denmark",20.6,79.4,Non Asia Tenggara
+436,437,"Muscat, Oman",20.54,79.46,Non Asia Tenggara
+437,438,"Basel, Switzerland",20.12,79.88,Non Asia Tenggara
+438,439,"Oradea, Romania",19.82,80.18,Non Asia Tenggara
+439,440,"Lugano, Switzerland",19.48,80.52,Non Asia Tenggara
+440,441,"Trondheim, Norway",19.41,80.59,Non Asia Tenggara
+441,442,"Eskisehir, Turkey",18.86,81.14,Non Asia Tenggara
+442,443,"Munich, Germany",18.66,81.34,Non Asia Tenggara
+443,444,"Bern, Switzerland",17.94,82.06,Non Asia Tenggara
+444,445,"Zurich, Switzerland",17.26,82.74,Non Asia Tenggara
+445,446,"Dubai, United Arab Emirates",16.3,83.7,Non Asia Tenggara
+446,447,"Sharjah, United Arab Emirates",15.69,84.31,Non Asia Tenggara
+447,448,"Ajman, United Arab Emirates",15.64,84.36,Non Asia Tenggara
+448,449,"Quebec City, Canada",15.14,84.86,Non Asia Tenggara
+449,450,"Taipei, Taiwan",15.05,84.95,Non Asia Tenggara
+450,451,"San Sebastian, Spain",14.86,85.14,Non Asia Tenggara
+451,452,"Doha, Qatar",13.96,86.04,Non Asia Tenggara
+452,453,"Abu Dhabi, United Arab Emirates",11.67,88.33,Non Asia Tenggara
