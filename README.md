@@ -71,3 +71,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 68 : GOOGLE DATA STUDIO - Add and Configure Fields and Parameters](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2068/DAY%2068.md)
 * [Day 69 : GOOGLE DATA STUDIO - Working with Charts](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2069/DAY%2069.md)
 * [Day 70 : GOOGLE DATA STUDIO - Working with Controls](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2070/DAY%2070.md)
+* [Day 71 : CASE STUDY - Democracy Index Dataset - Day 1](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2071/DAY%2071.md)
