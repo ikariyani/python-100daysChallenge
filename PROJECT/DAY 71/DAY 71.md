@@ -1,0 +1,4 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# CASE STUDY : Democracy Index  Dataset - Day 1<br>
+Dalam 10 hari kedepan saya akan melakukan sebuah case study Indeks Demokrasi pada Negara Indonesia. Pada hari pertama ini dimulai dengan mencari dan memilih data tentang Indeks Demokrasi Indonesia. Saya menemukan dataset tentang Indeks Demokrasi pada Negara - Negara ASEAN pada Tahun 2009 - 2019 yang akan saya gunakan untuk perbandingan indeks demokrasi Indonesia dengan negara - negara lain. Selain itu, saya juga menemukan dataset Indeks Demokrasi Indonesia pada setiap aspek penyusunnya dari tahun 2009 - 2020 untuk melakukan analisis lebih jauh.
