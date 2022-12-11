@@ -73,3 +73,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 70 : GOOGLE DATA STUDIO - Working with Controls](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2070/DAY%2070.md)
 * [Day 71 : CASE STUDY - Democracy Index Dataset - Day 1](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2071/DAY%2071.md)
 * [Day 72 : CASE STUDY - Democracy Index Dataset - Day 2](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2072/DAY%2072.md)
+* [Day 73 : CASE STUDY - Democracy Index Dataset - Day 3](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2073/DAY%2073.md)
