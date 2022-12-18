@@ -2,4 +2,5 @@
 
 # CASE STUDY : Democracy Index Dataset - Day 10<br>
 
-Pada hari ini saya membuat dashboard hasil analisis Indeks Demokrasi Indonesia Tahun 2011 - 2020.
+Pada hari ini saya membuat dashboard hasil analisis Indeks Demokrasi Indonesia Tahun 2011 - 2020. Informasi lebih lanjut pada dashboard tersebut dapat diakses pada link berikut : <br>
+https://datastudio.google.com/s/uuldQ5-DNUM
