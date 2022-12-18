@@ -80,3 +80,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 77 : CASE STUDY - Democracy Index Dataset - Day 7](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2077/Variabel%20dan%20Indikator%20Indeks%20Demokrasi%20Indonesia.ipynb)
 * [Day 78 : CASE STUDY - Democracy Index Dataset - Day 8](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2078/Analisis%20Aspek%20Lembaga%20Demokrasi.ipynb)
 * [Day 79 : CASE STUDY - Democracy Index Dataset - Day 9](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2079/Analisis%20Aspek%20Lembaga%20Demokrasi.ipynb)
+* [Day 80 : CASE STUDY : Democracy Index Dataset - Day 10](https://datastudio.google.com/u/0/reporting/171416a6-aa4d-49f6-bc53-d563f45a126a/page/2liAD?s=uuldQ5-DNUM)
