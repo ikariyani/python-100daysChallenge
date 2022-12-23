@@ -1,0 +1,4 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# CASE STUDY : Cause of Death Dataset - Day 5<br>
+Pada hari ini saya melanjutkan melakukan uji korelasi terhadap kasus kematian akibat kardiovaskular di Indonesia dengan tingkat konsumsi beberapa jenis daging di Indonesia. Berdasarkan pada korelasi yang dilakukan, dapat diketahui bahwa tingkat konsumsi daging dengan jenis yang berbeda memiliki tingkat korelasi yang berbeda juga dengan tingkat kematian akibat kardiovaskular.
