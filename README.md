@@ -87,3 +87,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 84 : CASE STUDY - Cause of Death Dataset - Day 4](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2084/KORELASI.ipynb)
 * [Day 85 : CASE STUDY - Cause of Death Dataset - Day 5](github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2085/KORELASI.ipynb)
 * [Day 86 : CASE STUDY - Cause of Death Dataset - Day 6](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2086/Korelasi%20Produksi%20Daging.ipynb)
+* [Day 87 : CASE STUDY - Cause of Death Dataset - Day 7](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2087/CAUSE%20OF%20DEATH%20INDONESIA.ipynb)
