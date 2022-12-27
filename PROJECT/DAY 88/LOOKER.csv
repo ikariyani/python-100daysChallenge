@@ -1,0 +1,241 @@
+Year;Disease;Total 
+1990;Cardiovascular Diseases;278302
+1990;Neoplasms;95636
+1990;Diarrheal Diseases;133685
+1990;Digestive Diseases;84478
+1990;Tuberculosis;128009
+1990;Others;562073
+1990;Total Death;1282183
+1990;Population;181413402
+1991;Cardiovascular Diseases;285751
+1991;Neoplasms;98800
+1991;Diarrheal Diseases;126918
+1991;Digestive Diseases;85907
+1991;Tuberculosis;125100
+1991;Others;557478
+1991;Total Death;1279954
+1991;Population;184591903
+1992;Cardiovascular Diseases;294517
+1992;Neoplasms;102344
+1992;Diarrheal Diseases;121095
+1992;Digestive Diseases;87620
+1992;Tuberculosis;123350
+1992;Others;554841
+1992;Total Death;1283767
+1992;Population;187739786
+1993;Cardiovascular Diseases;303860
+1993;Neoplasms;105995
+1993;Diarrheal Diseases;115849
+1993;Digestive Diseases;89351
+1993;Tuberculosis;122167
+1993;Others;549979
+1993;Total Death;1287201
+1993;Population;190851175
+1994;Cardiovascular Diseases;312544
+1994;Neoplasms;109559
+1994;Diarrheal Diseases;111085
+1994;Digestive Diseases;90948
+1994;Tuberculosis;120251
+1994;Others;547095
+1994;Total Death;1291482
+1994;Population;193917462
+1995;Cardiovascular Diseases;321557
+1995;Neoplasms;113315
+1995;Diarrheal Diseases;106166
+1995;Digestive Diseases;92536
+1995;Tuberculosis;118083
+1995;Others;544412
+1995;Total Death;1296069
+1995;Population;196934260
+1996;Cardiovascular Diseases;331193
+1996;Neoplasms;117565
+1996;Diarrheal Diseases;101048
+1996;Digestive Diseases;94020
+1996;Tuberculosis;115789
+1996;Others;541778
+1996;Total Death;1301393
+1996;Population;199901228
+1997;Cardiovascular Diseases;342414
+1997;Neoplasms;121912
+1997;Diarrheal Diseases;96922
+1997;Digestive Diseases;95493
+1997;Tuberculosis;115176
+1997;Others;543604
+1997;Total Death;1315521
+1997;Population;202826446
+1998;Cardiovascular Diseases;354220
+1998;Neoplasms;126010
+1998;Diarrheal Diseases;94441
+1998;Digestive Diseases;97113
+1998;Tuberculosis;116838
+1998;Others;544547
+1998;Total Death;1333169
+1998;Population;205724592
+1999;Cardiovascular Diseases;366292
+1999;Neoplasms;130040
+1999;Diarrheal Diseases;91996
+1999;Digestive Diseases;98675
+1999;Tuberculosis;117608
+1999;Others;548433
+1999;Total Death;1353044
+1999;Population;208615169
+2000;Cardiovascular Diseases;380554
+2000;Neoplasms;134197
+2000;Diarrheal Diseases;90092
+2000;Digestive Diseases;100417
+2000;Tuberculosis;117563
+2000;Others;545532
+2000;Total Death;1368355
+2000;Population;211513823
+2001;Cardiovascular Diseases;394941
+2001;Neoplasms;137844
+2001;Diarrheal Diseases;89040
+2001;Digestive Diseases;102057
+2001;Tuberculosis;117026
+2001;Others;546386
+2001;Total Death;1387294
+2001;Population;214427417
+2002;Cardiovascular Diseases;410020
+2002;Neoplasms;141586
+2002;Diarrheal Diseases;88060
+2002;Digestive Diseases;103910
+2002;Tuberculosis;116569
+2002;Others;547523
+2002;Total Death;1407668
+2002;Population;217357793
+2003;Cardiovascular Diseases;424879
+2003;Neoplasms;145558
+2003;Diarrheal Diseases;86467
+2003;Digestive Diseases;105740
+2003;Tuberculosis;115703
+2003;Others;548689
+2003;Total Death;1427036
+2003;Population;220309469
+2004;Cardiovascular Diseases;440056
+2004;Neoplasms;149842
+2004;Diarrheal Diseases;84928
+2004;Digestive Diseases;107711
+2004;Tuberculosis;114201
+2004;Others;714338
+2004;Total Death;1611076
+2004;Population;223285676
+2005;Cardiovascular Diseases;455437
+2005;Neoplasms;154637
+2005;Diarrheal Diseases;83441
+2005;Digestive Diseases;109735
+2005;Tuberculosis;112034
+2005;Others;549418
+2005;Total Death;1464702
+2005;Population;226289470
+2006;Cardiovascular Diseases;469704
+2006;Neoplasms;159526
+2006;Diarrheal Diseases;81466
+2006;Digestive Diseases;111360
+2006;Tuberculosis;110253
+2006;Others;558391
+2006;Total Death;1490700
+2006;Population;229318262
+2007;Cardiovascular Diseases;484163
+2007;Neoplasms;164406
+2007;Diarrheal Diseases;79695
+2007;Digestive Diseases;112629
+2007;Tuberculosis;109058
+2007;Others;552718
+2007;Total Death;1502669
+2007;Population;232374245
+2008;Cardiovascular Diseases;500374
+2008;Neoplasms;168946
+2008;Diarrheal Diseases;77723
+2008;Digestive Diseases;113979
+2008;Tuberculosis;106904
+2008;Others;554010
+2008;Total Death;1521936
+2008;Population;235469762
+2009;Cardiovascular Diseases;514806
+2009;Neoplasms;173532
+2009;Diarrheal Diseases;75605
+2009;Digestive Diseases;115272
+2009;Tuberculosis;104609
+2009;Others;557856
+2009;Total Death;1541680
+2009;Population;238620563
+2010;Cardiovascular Diseases;527322
+2010;Neoplasms;177788
+2010;Diarrheal Diseases;72855
+2010;Digestive Diseases;116137
+2010;Tuberculosis;101631
+2010;Others;560668
+2010;Total Death;1556401
+2010;Population;241834215
+2011;Cardiovascular Diseases;540490
+2011;Neoplasms;183379
+2011;Diarrheal Diseases;70271
+2011;Digestive Diseases;117524
+2011;Tuberculosis;97484
+2011;Others;561419
+2011;Total Death;1570567
+2011;Population;245116206
+2012;Cardiovascular Diseases;558106
+2012;Neoplasms;188339
+2012;Diarrheal Diseases;68494
+2012;Digestive Diseases;118387
+2012;Tuberculosis;92813
+2012;Others;559294
+2012;Total Death;1585433
+2012;Population;248452413
+2013;Cardiovascular Diseases;573039
+2013;Neoplasms;193469
+2013;Diarrheal Diseases;66978
+2013;Digestive Diseases;119354
+2013;Tuberculosis;89584
+2013;Others;558921
+2013;Total Death;1601345
+2013;Population;251806402
+2014;Cardiovascular Diseases;587184
+2014;Neoplasms;198139
+2014;Diarrheal Diseases;65593
+2014;Digestive Diseases;120212
+2014;Tuberculosis;86953
+2014;Others;559667
+2014;Total Death;1617748
+2014;Population;255129004
+2015;Cardiovascular Diseases;603096
+2015;Neoplasms;202962
+2015;Diarrheal Diseases;64578
+2015;Digestive Diseases;119335
+2015;Tuberculosis;83909
+2015;Others;559562
+2015;Total Death;1633442
+2015;Population;258383256
+2016;Cardiovascular Diseases;614602
+2016;Neoplasms;209282
+2016;Diarrheal Diseases;63106
+2016;Digestive Diseases;120717
+2016;Tuberculosis;82533
+2016;Others;561509
+2016;Total Death;1651749
+2016;Population;261554226
+2017;Cardiovascular Diseases;626883
+2017;Neoplasms;215810
+2017;Diarrheal Diseases;62584
+2017;Digestive Diseases;123121
+2017;Tuberculosis;80770
+2017;Others;563800
+2017;Total Death;1672968
+2017;Population;264645886
+2018;Cardiovascular Diseases;639224
+2018;Neoplasms;222732
+2018;Diarrheal Diseases;60886
+2018;Digestive Diseases;124701
+2018;Tuberculosis;78494
+2018;Others;571209
+2018;Total Death;1697246
+2018;Population;267663435
+2019;Cardiovascular Diseases;651481
+2019;Neoplasms;229524
+2019;Diarrheal Diseases;59589
+2019;Digestive Diseases;126348
+2019;Tuberculosis;76549
+2019;Others;569652
+2019;Total Death;1713143
+2019;Population;270625568
