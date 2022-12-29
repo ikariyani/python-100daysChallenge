@@ -1,0 +1,4 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# CASE STUDY : Mental Health Disorder Dataset - Day 1<br>
+Pada hari ini saya melakukan pencarian dataset dan memilih dataset yang tepat untuk melakukan case study pada 9 hari ke depan, diantaranya yaitu eksplorasi data, melakukan berbagai analisis, membuat analisis secara utuh serta membuat dashboard interaktif. Dataset yang terpilih yaitu dataset mengenai tren mental health disorder negara di seluruh dunia, yang nanti akan difokuskan pada pembahasan mental health disorder di India dan Indonesia.
