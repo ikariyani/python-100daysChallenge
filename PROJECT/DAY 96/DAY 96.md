@@ -1,0 +1,4 @@
+<img src="https://cloudonair.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AAANsUkbI2YbsqU6Bp1LcvnTIWxmAq6YqKBMPAvzRKafVXz5e-Hos1u6U93-GznMChWoAxrPPcUsBMmBk23BZr0mS2M.1Kj-bx3ECiOPV4Jg">
+
+# CASE STUDY : Mental Health Disorder Dataset - Day 6<br>
+Pada hari ini saya melakukan analisis korelasi antara tren mental health disorder dengan populasi di India dan Indonesia tahun 1990 - 2019. Berdasarkan pada analisis tersebut, didapatkan bahwa India dan Indonesia memiliki perbedaan korelasi, yaitu di India memiliki korelasi negatif yang kuat sedangkan di Indonesia memiliki korelasi positif yang kuat.
