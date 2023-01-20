@@ -100,3 +100,4 @@ This is my repository of #100daysofcodechallenge with Python for Data Analysis
 * [Day 97 : CASE STUDY - Mental Health Disorder Dataset - Day 7](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2097/MENTAL%20HEALTH%20DISORDER%20DAY%207.ipynb)
 * [Day 98 : CASE STUDY - Mental Health Disorder Dataset - Day 8](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2098/MENTAL%20HEALTH%20DISORDER%20DAY%208.ipynb)
 * [Day 99 : CASE STUDY - Mental Health Disorder Dataset - Day 9](https://github.com/ikariyani/python-100daysChallenge/blob/main/PROJECT/DAY%2099/MENTAL%20HEALTH%20DISORDER.pdf)
+* [Day 100 : CASE STUDY : Mental Health Disorder Dataset - Day 10](https://datastudio.google.com/reporting/b771c38d-05b7-4a85-8b57-3445245bcddb)
